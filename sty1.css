@@ -1,0 +1,27 @@
+body {
+    background: #aca;
+    margin: 0;
+    padding: 0;
+    color: #464;
+    font-family: "Meiryo UI", sans-serif;
+    font-size: 16px;
+    line-height: 1.75em;
+}
+main {
+    max-width: 640px;
+    margin: 0 auto;
+    padding: 8px;
+    background: #ded;
+}
+h1 {
+    background: #464;
+    color: #ded;
+    font-size: 32px;
+    line-height: 1.75em;
+    margin: 8px;
+    padding: 0 16px;
+}
+p {
+    margin: 8px;
+    padding: 0;
+}
